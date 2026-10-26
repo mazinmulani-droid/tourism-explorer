@@ -1,5 +1,6 @@
 {
-  "name": "tourism-explorer",
+  "name": "@mazinmulani-droid/tourism-explorer",
+  "umdName": "HDTourismExplorer",
   "version": "1.0.0",
   "source": "src/frontend/index.jsx",
   "main": "dist/index.umd.js",
