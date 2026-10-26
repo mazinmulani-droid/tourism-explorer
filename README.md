@@ -155,5 +155,5 @@ In accordance with hackathon submission guidelines:
 ---
 
 ## 📹 Demo Video & Links
-- **GitHub Repository**: [https://github.com/muaajmulani/tourism-explorer](https://github.com/muaajmulani/tourism-explorer)
+- **GitHub Repository**: [https://github.com/mazinmulani-droid/tourism-explorer](https://github.com/mazinmulani-droid/tourism-explorer)
 - **Demo Video (YouTube)**: [https://youtu.be/01234567890](https://youtu.be/01234567890) *(Replace with recorded link)*

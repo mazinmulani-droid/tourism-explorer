@@ -47,6 +47,6 @@ export default  {
 	info: {
 		// key-values added here will be added to the compInfo section of searchData
 	},
-	github: "https://github.com/muaajmulani/tourism-explorer",
+	github: "https://github.com/mazinmulani-droid/tourism-explorer",
 	demovideo: "https://youtu.be/01234567890"
 }
