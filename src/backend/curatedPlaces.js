@@ -426,6 +426,34 @@ export const CURATED_PLACES = {
       rating: 4.8,
       recommendedDuration: "1 hour",
       timeOfDay: "evening"
+    },
+    {
+      id: "kkr-7",
+      name: "Sthaneshwar Mahadev Temple",
+      category: "temples",
+      categoryLabel: "Historic Shiva Temple",
+      lat: 29.9854,
+      lon: 76.8189,
+      address: "Thanesar, Kurukshetra, Haryana 136118",
+      description: "Ancient temple dedicated to Lord Shiva where the Pandavas along with Lord Krishna worshipped and received blessings for victory in the Mahabharata war.",
+      image: "https://images.unsplash.com/photo-1545629124-7bfb9a71a396?w=800&auto=format&fit=crop&q=80",
+      rating: 4.7,
+      recommendedDuration: "1 hour",
+      timeOfDay: "morning"
+    },
+    {
+      id: "kkr-8",
+      name: "Sannihit Sarovar",
+      category: "temples",
+      categoryLabel: "Sacred Holy Reservoir",
+      lat: 29.9678,
+      lon: 76.8339,
+      address: "Thanesar, Kurukshetra, Haryana 136118",
+      description: "Believed to be the meeting point of seven sacred Saraswatis, containing holy water where taking a bath on Amavasya brings immense spiritual merit.",
+      image: "https://images.unsplash.com/photo-1609137144822-26d9c6efc1f1?w=800&auto=format&fit=crop&q=80",
+      rating: 4.6,
+      recommendedDuration: "1 hour",
+      timeOfDay: "afternoon"
     }
   ],
 

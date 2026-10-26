@@ -36,6 +36,7 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
+    "test": "node --test tests/*.test.js",
     "build": "vite build",
     "build:backend": "npm --prefix src/backend run build",
     "prepublishOnly": "node scripts/validate-publish.js"

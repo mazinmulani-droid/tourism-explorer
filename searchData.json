@@ -181,6 +181,42 @@
   },
   {
     "component": "tourism-explorer",
+    "query": "Temples in Kurukshetra",
+    "entities": [
+      {
+        "word": "Kurukshetra",
+        "collectionName": "CITIES",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "tz": "Asia/Kolkata",
+            "lat": 29.9695,
+            "city": "Kurukshetra",
+            "long": 76.8783,
+            "state": "Haryana",
+            "country": "India",
+            "countryCode": "IN"
+          }
+        },
+        "entityType": "LOCATION",
+        "description": "historical city in Haryana",
+        "relevanceScore": 100
+      }
+    ],
+    "keyword": [{ "word": "temples", "description": "" }],
+    "genericQuery": "temples in HD_LOCATION__CITIES",
+    "userLocation": {
+      "position": {
+        "coords": { "latitude": 29.9695, "longitude": 76.8783 },
+        "city": "Kurukshetra",
+        "countryCode": "IN"
+      },
+      "source": "ip"
+    },
+    "suggestedPlace": "sidebar"
+  },
+  {
+    "component": "tourism-explorer",
     "query": "Sights near Tokyo",
     "entities": [
       {
